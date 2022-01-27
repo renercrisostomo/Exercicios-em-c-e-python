@@ -10,11 +10,9 @@ Classificar n pessoas com base nas condições na tabela:
 
 PESO x ALTURA
 <=60 |<=90| >90| x
------|----|----|-------       
+ --- | -- | -- | -----       
   1A | 4D | 7G | <1.20 
------|----|----|------- 
-  2B | 5E | 8H | <=1.70
------|----|----|-------          
+  2B | 5E | 8H | <=1.70        
   3C | 6F | 9I | >1.70 
 
 **6. MEDIA PONDERADA E CONCEITO - FUNCOES**
