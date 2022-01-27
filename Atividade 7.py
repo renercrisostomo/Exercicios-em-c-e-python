@@ -1,6 +1,6 @@
 """
-Atividade 7 | PRODUTO DE DUAS LISTAS
-Adicionar e mostar 2 listas inseridas pelo usuario e o produto delas deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em uma 3ª lista 
+Atividade 7 | PRODUTO DE UMA LISTA PELO INVESO DA OUTRA(SEM INVERTER A ORDEM DOS ELEMENTOS NA LISTA) ADICIONADO DAS PONTAS AO CENTRO
+Adicionar e mostar 2 listas inseridas pelo usuario e o produto da primeira pelo inverso da segunda deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em uma 3ª lista 
 Mostre todas as listas ao usuario
 """
 from math import ceil
