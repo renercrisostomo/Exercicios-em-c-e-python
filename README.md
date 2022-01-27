@@ -21,10 +21,9 @@ Verifique da nota do aluno com base na media ponderada envolvendo:
 Trabalho(45%), Avaliação Parcial(20%) e Avaliação Final(35%)
 MP>=8: A1; 8>MP>=7: B2; 7>MP>=6: C3; 6>MP>=5: D4; 5>MP: 5E.
 
-**7. PRODUTO DE DUAS LISTAS**
+**7. PRODUTO DE UMA LISTA PELO INVESO DA OUTRA(SEM INVERTER A ORDEM DOS ELEMENTOS NA LISTA) ADICIONADO DAS PONTAS AO CENTRO**
 
-Adicionar e mostar 2 listas inseridas pelo usuario e o produto delas deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em uma 3ª lista 
-Mostre todas as listas ao usuario
+Adicionar e mostar 2 listas inseridas pelo usuario e o produto da primeira pelo inverso da segunda deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em uma 3ª lista. Mostre todas as listas ao usuario.
 
 **8. MATRIZES**
 
