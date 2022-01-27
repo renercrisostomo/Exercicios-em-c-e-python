@@ -6,10 +6,10 @@ Indicar o tipo de triangulo comparando o tamanho dos lados fornecido pelo usuari
 **5. TABELA (PESO/ALTURA)**
 Classificar n pessoas com base nas condições na tabela:
 
-PESO      
-<=60 |<=90| >90| 
+PESO x ALTURA
+<=60 |<=90| >90| x
 -----|----|----|-------       
-  1A | 4D | 7G | <1.20  | ALTURA
+  1A | 4D | 7G | <1.20 
 -----|----|----|------- 
   2B | 5E | 8H | <=1.70
 -----|----|----|-------          
