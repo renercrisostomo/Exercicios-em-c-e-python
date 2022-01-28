@@ -22,13 +22,13 @@ Adicionar e mostar 2 vetores inseridos pelo usuario e o produto deles deve ser a
 Mostre todas as vetores ao usuario
 
 **8. MATRIZES**
-Escreva um programa em C que permite ao usu�rio digitar n�meros reais maiores que 3.73 para preencher as matrizes A[12x12] e matriz B[12x12]. Al�m disso, o programa dever� calcular e mostrar na sequ�ncia, os resultados dos itens a seguir:
+Escreva um programa em C que permite ao usuário digitar números reais maiores que 3.73 para preencher as matrizes A[12x12] e matriz B[12x12]. Além disso, o programa deverá calcular e mostrar na sequência, os resultados dos itens a seguir:
 
 I. fazer o produto entre as duas matrizes e armazenar em uma 3a matriz;
-II. multiplicar os elementos da diagonal principal da matriz A pela diagonal secund�ria da matriz B e armazenar na diagonal principal de uma 4a matriz. Os outros elementos ser�o da 3a matriz;
-III. identificar os elementos de todas as matrizes que s�o maiores 52% do que o valor da m�dia geral das matrizes resultantes dos itens I e II. Fazer os c�lculos individualmente para cada matriz resultate dos itens I e II.
+II. multiplicar os elementos da diagonal principal da matriz A pela diagonal secundária da matriz B e armazenar na diagonal principal de uma 4a matriz. Os outros elementos serão da 3a matriz;
+III. identificar os elementos de todas as matrizes que são maiores 52% do que o valor da média geral das matrizes resultantes dos itens I e II. Fazer os cálculos individualmente para cada matriz resultate dos itens I e II.
 
-Obs.: inicie mostrando os elementos das matrizes que foram digitados pelo usu�rio. Depois, cada item deve ter seu resultado mostrado antes de calcular o pr�ximo item.
+Obs.: inicie mostrando os elementos das matrizes que foram digitados pelo usuário. Depois, cada item deve ter seu resultado mostrado antes de calcular o próximo item.
 
 **FINAL 1 SISTEMA DE NOTAS E FREQUENCIA**
 Fazer uma matriz dos estudantes com as notas de cada avaliação, média e frequencia (o numero de estudantes, avaliações, notas e frequencia é inserido pelo usuario)

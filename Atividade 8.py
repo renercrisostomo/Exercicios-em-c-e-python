@@ -40,10 +40,7 @@ TAM=int(input("\t\tTAMANHO = ")) #Escolhendo o Tamanho das matrizes
 print(f"\t\tTAMANHO {TAM}x{TAM}")
 
 #Adicionando Valores maiores que 3.73 para as matrizes 1 e 2
-matriz_1=[]
-matriz_2=[]
-matriz_3=[]
-matriz_4=[]
+matriz_1,matriz_2,matriz_3,matriz_4 = [],[],[],[]
 for linha in range(TAM):
 	matriz_1.append([])
 	matriz_2.append([])

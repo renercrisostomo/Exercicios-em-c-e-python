@@ -5,9 +5,7 @@ Mostre todas as listas ao usuario
 """
 from math import ceil
 
-lista1=[]
-lista2=[]
-lista3=[]
+lista1,lista2,lista3 = [],[],[]
 print("\n\t    PRODUTO DE DUAS LISTAS\n\nDigite o TAMANHO das listas e cada um de seus VALORES:\n")
 
 tamanho=int(input("\t\tTAMANHO = "))
