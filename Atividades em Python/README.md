@@ -1,11 +1,13 @@
 # Atividades de Tecnicas de Programação em Python
 
-**4. CLASSIFICAR TRIANGULO (LADOS)**
+**Atividade 4**
 
+CLASSIFICAR TRIANGULO (LADOS)
 Indicar o tipo de triangulo comparando o tamanho dos lados fornecido pelo usuario
 
-**5. TABELA (PESO/ALTURA)**
+**Atividade 5**
 
+TABELA (PESO/ALTURA)
 Classificar n pessoas com base nas condições na tabela:
 
 PESO x ALTURA
@@ -15,30 +17,34 @@ PESO x ALTURA
   2B | 5E | 8H | <=1.70        
   3C | 6F | 9I | >1.70 
 
-**6. MEDIA PONDERADA E CONCEITO - FUNCOES**
+**Atividade 6**
 
+MEDIA PONDERADA E CONCEITO - FUNCOES
 Verifique da nota do aluno com base na media ponderada envolvendo:
 Trabalho(45%), Avaliação Parcial(20%) e Avaliação Final(35%)
 MP>=8: A1; 8>MP>=7: B2; 7>MP>=6: C3; 6>MP>=5: D4; 5>MP: 5E.
 
-**7. PRODUTO DE UMA LISTA PELO INVESO DA OUTRA(SEM INVERTER A ORDEM DOS ELEMENTOS NA LISTA) ADICIONADO DAS PONTAS AO CENTRO**
+**Atividade 7**
 
+PRODUTO DE UMA LISTA PELO INVESO DA OUTRA ADICIONADO DAS PONTAS AO CENTRO
 Adicionar e mostar 2 listas inseridas pelo usuario e o produto da primeira pelo inverso da segunda deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em uma 3ª lista. Mostre todas as listas ao usuario.
 
-**8. MATRIZES**
+**Atividade 8**
 
+MATRIZES
 Montar duas matrizes quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 3.73, informe que não é aceito e peça para digitar novamente)
 Multiplique as duas matrizes e adicione o resultado em uma 3ª matriz
 Multiplique a diagonal principal da matriz 1 pela diagonal secundária da matriz 2 e substitua na diagonal principal de uma 4ª matriz cópia da matriz 3.
 Identifique os numeros 52% maiores que a média para a matriz 3 e 4, individualmente.
 Mostre cada matriz ao final de cada etapa.
 
-**9. SISTEMA DE NOTAS E FREQUENCIA**
+**Atividade 9**
 
+SISTEMA DE NOTAS E FREQUENCIA
 Fazer uma matriz dos estudantes com as notas de cada avaliação, média e frequencia (o numero de estudantes, avaliações, notas e frequencia é inserido pelo usuario)
 Calcule a media geral da turma
 
-**10**
+**Atividade 10**
 
 Montar uma matriz quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 1, informe que não é aceito e peça para digitar novamente)
 Multiplique cada valor da diagonal principal por 6 se primo ou por 4 se não primo e mostre a matriz
