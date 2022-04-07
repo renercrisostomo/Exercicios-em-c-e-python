@@ -46,9 +46,9 @@ MATRIZES
 
 Escreva um programa em C que permite ao usuário digitar números reais maiores que 3.73 para preencher as matrizes A[12x12] e matriz B[12x12]. Além disso, o programa deverá calcular e mostrar na sequência, os resultados dos itens a seguir:
 
-I. fazer o produto entre as duas matrizes e armazenar em uma 3a matriz;
-II. multiplicar os elementos da diagonal principal da matriz A pela diagonal secundária da matriz B e armazenar na diagonal principal de uma 4a matriz. Os outros elementos serão da 3a matriz;
-III. identificar os elementos de todas as matrizes que são maiores 52% do que o valor da média geral das matrizes resultantes dos itens I e II. Fazer os cálculos individualmente para cada matriz resultate dos itens I e II.
+I- fazer o produto entre as duas matrizes e armazenar em uma 3a matriz;
+II- multiplicar os elementos da diagonal principal da matriz A pela diagonal secundária da matriz B e armazenar na diagonal principal de uma 4a matriz. Os outros elementos serão da 3a matriz;
+III- identificar os elementos de todas as matrizes que são maiores 52% do que o valor da média geral das matrizes resultantes dos itens I e II. Fazer os cálculos individualmente para cada matriz resultate dos itens I e II.
 
 Obs.: inicie mostrando os elementos das matrizes que foram digitados pelo usuário. Depois, cada item deve ter seu resultado mostrado antes de calcular o próximo item.
 
