@@ -59,5 +59,4 @@ Adicione todos os valores resultantes de cada multiplicacao e divisao dos itens 
 
 **Observações**
 
-As atividades 1, 2 e 3 eram objetivas
-As atividades foram feitas originalmente em C. Você pode vê-las na pasta Atividades em C
+As atividades 1, 2 e 3 tinham questões objetivas
