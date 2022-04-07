@@ -22,7 +22,11 @@ PESO x ALTURA
 MEDIA PONDERADA E CONCEITO - FUNCOES
 Verifique da nota do aluno com base na media ponderada envolvendo:
 Trabalho(45%), Avaliação Parcial(20%) e Avaliação Final(35%)
-MP>=8: A1; 8>MP>=7: B2; 7>MP>=6: C3; 6>MP>=5: D4; 5>MP: 5E.
+- MP>=8: A1;
+- 8>MP>=7: B2;
+- 7>MP>=6: C3;
+- 6>MP>=5: D4;
+- 5>MP: 5E.
 
 **Atividade 7**
 
