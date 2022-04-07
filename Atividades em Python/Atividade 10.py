@@ -1,5 +1,5 @@
 """
-ATIVIDADE FINAL 2
+ATIVIDADE 10
 Montar uma matriz quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 1, informe que não é aceito e peça para digitar novamente)
 Multiplique cada valor da diagonal principal por 6 se primo ou por 4 se não primo e mostre a matriz
 Divida cada valor da diagonal secundaria por 5 se par ou por 7 se impar e mostre a matriz

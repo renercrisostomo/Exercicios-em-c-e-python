@@ -30,11 +30,11 @@ III. identificar os elementos de todas as matrizes que são maiores 52% do que o
 
 Obs.: inicie mostrando os elementos das matrizes que foram digitados pelo usuário. Depois, cada item deve ter seu resultado mostrado antes de calcular o próximo item.
 
-**FINAL 1 SISTEMA DE NOTAS E FREQUENCIA**
+**9. SISTEMA DE NOTAS E FREQUENCIA**
 Fazer uma matriz dos estudantes com as notas de cada avaliação, média e frequencia (o numero de estudantes, avaliações, notas e frequencia é inserido pelo usuario)
 Calcule a media geral da turma
 
-**FINAL 2**
+**10**
 Montar uma matriz quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 1, informe que não é aceito e peça para digitar novamente)
 Multiplique cada valor da diagonal principal por 6 se primo ou por 4 se não primo e mostre a matriz
 Divida cada valor da diagonal secundaria por 5 se par ou por 7 se impar e mostre a matriz

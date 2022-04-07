@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-ATIVIDADE FINAL 1 - SISTEMA DE NOTAS E FREQUENCIA
+ATIVIDADE 9 - SISTEMA DE NOTAS E FREQUENCIA
 Fazer uma matriz dos estudantes com as notas de cada avaliação, média e frequencia (o numero de estudantes, avaliações, notas e frequencia é inserido pelo usuario)
 Calcule a media geral da turma
 */
