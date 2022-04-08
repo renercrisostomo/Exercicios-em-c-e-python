@@ -3,7 +3,7 @@
 /*
 Atividade 7 | PRODUTO DE DOIS VETORES
 Adicionar e mostar 2 vetores inseridos pelo usuario e o produto deles deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em um 3º vetor 
-Mostre todas as vetores ao usuario
+Mostre todos os vetores ao usuario
 */
 int main()
 {

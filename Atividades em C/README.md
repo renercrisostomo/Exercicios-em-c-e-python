@@ -38,7 +38,7 @@ Condição | Conceito
 PRODUTO DE UMA LISTA PELO INVESO DA OUTRA ADICIONADO DAS PONTAS AO CENTRO
 
 Adicionar e mostar 2 vetores inseridos pelo usuario e o produto deles deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em um 3º vetor 
-Mostre todas as vetores ao usuario
+Mostre todos os vetores ao usuario.
 
 **Atividade 8**
 
@@ -46,9 +46,9 @@ MATRIZES
 
 Escreva um programa em C que permite ao usuário digitar números reais maiores que 3.73 para preencher as matrizes A[12x12] e matriz B[12x12]. Além disso, o programa deverá calcular e mostrar na sequência, os resultados dos itens a seguir:
 
-I- fazer o produto entre as duas matrizes e armazenar em uma 3a matriz;
-II- multiplicar os elementos da diagonal principal da matriz A pela diagonal secundária da matriz B e armazenar na diagonal principal de uma 4a matriz. Os outros elementos serão da 3a matriz;
-III- identificar os elementos de todas as matrizes que são maiores 52% do que o valor da média geral das matrizes resultantes dos itens I e II. Fazer os cálculos individualmente para cada matriz resultate dos itens I e II.
+- Fazer o produto entre as duas matrizes e armazenar em uma 3a matriz;
+- Multiplicar os elementos da diagonal principal da matriz A pela diagonal secundária da matriz B e armazenar na diagonal principal de uma 4a matriz. Os outros elementos serão da 3a matriz;
+- Identificar os elementos de todas as matrizes que são maiores 52% do que o valor da média geral das matrizes resultantes dos itens I e II. Fazer os cálculos individualmente para cada matriz resultate dos itens I e II.
 
 Obs.: inicie mostrando os elementos das matrizes que foram digitados pelo usuário. Depois, cada item deve ter seu resultado mostrado antes de calcular o próximo item.
 
@@ -61,7 +61,7 @@ Calcule a media geral da turma
 
 **Atividade 10**
 
-Montar uma matriz quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 1, informe que não é aceito e peça para digitar novamente)
+Montar uma matriz quadrada de tamanho 12x12 e numeros inseridos pelo usuario maiores que 1 (se ele digitar valores abaixo de 1, informe que não é aceito e peça para digitar novamente)
 Multiplique cada valor da diagonal principal por 6 se primo ou por 4 se não primo e mostre a matriz
 Divida cada valor da diagonal secundaria por 5 se par ou por 7 se impar e mostre a matriz
 Adicione todos os valores resultantes de cada multiplicacao e divisao dos itens anteriores e os valores da antepenúltima coluna maiores que 13 à um vetor e mostre-o.

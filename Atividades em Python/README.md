@@ -39,9 +39,10 @@ Adicionar e mostar 2 listas inseridas pelo usuario e o produto da primeira pelo 
 
 MATRIZES
 Montar duas matrizes quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 3.73, informe que não é aceito e peça para digitar novamente)
-Multiplique as duas matrizes e adicione o resultado em uma 3ª matriz
-Multiplique a diagonal principal da matriz 1 pela diagonal secundária da matriz 2 e substitua na diagonal principal de uma 4ª matriz cópia da matriz 3.
-Identifique os numeros 52% maiores que a média para a matriz 3 e 4, individualmente.
+
+- Multiplique as duas matrizes e adicione o resultado em uma 3ª matriz
+- Multiplique a diagonal principal da matriz 1 pela diagonal secundária da matriz 2 e substitua na diagonal principal de uma 4ª matriz cópia da matriz 3.
+- Identifique os numeros 52% maiores que a média para a matriz 3 e 4, individualmente.
 Mostre cada matriz ao final de cada etapa.
 
 **Atividade 9**
