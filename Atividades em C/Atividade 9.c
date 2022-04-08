@@ -15,46 +15,46 @@ int main()
     
     //Adicionando Valores na MATRIZ
     printf("\t\tNumero de Estudantes= ");
-    scanf("%d",&EST);
+    scanf("%d", &EST);
     printf("\t\tNumero de Avaliacoes= ");
-    scanf("%d",&AVA);
-    col=AVA+2;
+    scanf("%d", &AVA);
+    col = AVA + 2;
 	
     int i,j;
     float MATRIZ[EST][col];
     
 	printf("\n\n\tNOTA[ ESTUDANTE , AVALIACAO ]\n\n");
-	for(i=0; i<EST; ++i){
-		media=0;
-	    for(j=0; j<AVA; ++j){
-	        printf("\t\tNOTA[%d,%d]= ", i+1, j+1);
+	for(i = 0; i < EST; ++i){
+		media = 0;
+	    for(j = 0; j < AVA; ++j){
+	        printf("\t\tNOTA[%d,%d]= ", i + 1, j + 1);
 	        scanf("%g", &MATRIZ[i][j]);
-	        media+=MATRIZ[i][j];
+	        media += MATRIZ[i][j];
 		}
-		MATRIZ[i][col-1]=(media/AVA);
+		MATRIZ[i][col - 1] = (media / AVA);
 	}
 	printf("\n\n");
 	
 	printf("\n\n\tFREQUENCIA[ ESTUDANTE ]\n\n");
-	for(i=0; i<EST; ++i){
-		printf("\t\tFREQUENCIA[%d]= ", i+1);
+	for(i = 0; i < EST; ++i){
+		printf("\t\tFREQUENCIA[%d]= ", i + 1);
 		scanf("%d", &MATRIZ[i][col]);
 	}
 	
 	//Apresentando a MATRIZ
 	printf("\n\n\t\t"); 
-	for(i=0; i<EST; ++i){
-	    for(j=0; j<col; ++j){
+	for(i = 0; i < EST; ++i){
+	    for(j = 0; j < col; ++j){
 	    	printf("[ %g ]", MATRIZ[i][j]);
 	    }
 	    printf("\n\t\t");
 	}
 	
 	//Media Geral da Turma
-	for(i=0; i<EST; ++i){
-		media+=MATRIZ[i][col-1];
+	for(i = 0; i < EST; ++i){
+		media += MATRIZ[i][col - 1];
 	}
-	media=(media/EST);
+	media = (media / EST);
 	printf("\n\t\tMEDIA GERAL = %g", media);
 	
 	return 0;

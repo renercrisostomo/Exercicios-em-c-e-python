@@ -9,36 +9,36 @@ def mostrarMatriz(matriz, numLinhas): #Separa cada lista em linhas como uma matr
 		print(f"\t   {matriz[linha]}")
 
 print("\n\tSISTEMA DE NOTAS E FREQUENCIA\n\n\tDigite o que for pedido:\n")
-EST=int(input("\t   Numero de Estudantes= "))
-AVA=int(input("\t   Numero de Avaliacoes= "))
-TAM=AVA+2
-matriz=[]
+EST = int(input("\t   Numero de Estudantes= "))
+AVA = int(input("\t   Numero de Avaliacoes= "))
+TAM = AVA + 2
+matriz = []
 for linha in range(EST):
 	matriz.append([])
 
 #Adicionando Valores na matriz e calculando a media
 print("\n\tNOTA [ESTUDANTE,AVALIACAO]:\n")
 for estudante in range(EST):
-	media=0
+	media = 0
 	for avaliacao in range(AVA):
 		matriz[estudante].append(0)
-		matriz[estudante][avaliacao]=round(float(input(f"\t   NOTA[{estudante+1},{avaliacao+1}]= ")), 2)
-		media+=matriz[estudante][avaliacao]
+		matriz[estudante][avaliacao] = round(float(input(f"\t   NOTA[{estudante+1},{avaliacao+1}]= ")), 2)
+		media += matriz[estudante][avaliacao]
 	matriz[estudante].append(0)
-	matriz[estudante][TAM-2]=(media/AVA)
+	matriz[estudante][TAM - 2] = (media / AVA)
 mostrarMatriz(matriz, EST)
 
 print("\n\tFREQUENCIA [ESTUDANTE]:\n")
 for estudante in range(EST):
 	matriz[estudante].append(0)
-	matriz[estudante][TAM-1]=int(input(f"\t   FREQUENCIA[{estudante+1}]= "))
+	matriz[estudante][TAM - 1] = int(input(f"\t   FREQUENCIA[{estudante + 1}]= "))
 mostrarMatriz(matriz, EST)
 
 #Media Geral da Turma
-media=0
+media = 0
 for estudante in range(EST):
-	media+=matriz[estudante][TAM-1]
-media/=EST
+	media += matriz[estudante][TAM - 1]
+media /= EST
 print(f"\n\tMEDIA GERAL = {media}")
 
 

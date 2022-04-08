@@ -38,7 +38,7 @@ int main()
 
 float MediaPonderada_Funcao(float Trabalho, float AvaliacaoParcial, float AvaliacaoFinal)
 {
-    float MediaPonderada = ((Trabalho*45)+(AvaliacaoParcial*20)+(AvaliacaoFinal*35))/100;
+    float MediaPonderada = ((Trabalho * 45) + (AvaliacaoParcial * 20)+(AvaliacaoFinal * 35)) / 100;
     printf("\n\tMEDIA PONDERADA = %f", MediaPonderada);
     
     return MediaPonderada;
@@ -46,15 +46,15 @@ float MediaPonderada_Funcao(float Trabalho, float AvaliacaoParcial, float Avalia
     
 void Conceito(float MediaPonderada)
 {
-    if ((MediaPonderada>10)||(MediaPonderada<0)){
+    if ((MediaPonderada > 10) || (MediaPonderada < 0)){
         printf("Por favor, insira todas as notas com numeros de 0 a 10 e tente novamente.");
-    } else if(MediaPonderada>=8){
+    } else if(MediaPonderada >= 8){
         printf("A1");
-    } else if(MediaPonderada>=7){
+    } else if(MediaPonderada >= 7){
         printf("B2");
-    } else if(MediaPonderada>=6){
+    } else if(MediaPonderada >= 6){
         printf("C3");
-    } else if(MediaPonderada>=5){
+    } else if(MediaPonderada >= 5){
         printf("D4");
     } else printf("5E");
 }

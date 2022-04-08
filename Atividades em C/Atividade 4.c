@@ -20,12 +20,12 @@ int main()
     printf("Lado C = ");
     scanf ("%f", &C);
   
-    if((A+B>=C) && (A+C>=B) && (B+C>=A)){
+    if((A + B >= C) && (A + C >= B) && (B + C >= A)){
         printf("\nTipo do triangulo: ");
-        if((A==B) && (B==C)){
+        if((A == B) && (B == C)){
             printf("Equilatero (Todos os lados iguais)");
         }
-        else if((A!=B) && (A!=C) && (B!=C)){
+        else if((A != B) && (A != C) && (B != C)){
             printf("Escaleno (Todos os lados diferentes)");
         }
         else printf("Isosceles (2 lados iguais)");

@@ -5,10 +5,10 @@ Mostre todas as listas ao usuario
 """
 from math import ceil
 
-lista1,lista2,lista3 = [],[],[]
+lista1, lista2, lista3 = [], [], []
 print("\n\t    PRODUTO DE DUAS LISTAS\n\nDigite o TAMANHO das listas e cada um de seus VALORES:\n")
 
-tamanho=int(input("\t\tTAMANHO = "))
+tamanho = int(input("\t\tTAMANHO = "))
 print("\n\tLISTA 1:\n")
 for i in range(tamanho):
     lista1.append(int(input(f"\t\tVALOR {i} = ")))
@@ -18,7 +18,7 @@ for i in range(tamanho):
     lista2.append(int(input(f"\t\tVALOR {i} = ")))
 
 for i in range(tamanho):
-    lista3.insert(ceil(len(lista3)/2), lista1[i]*lista2[-(i+1)])
+    lista3.insert(ceil(len(lista3) / 2), lista1[i] * lista2[ -(i + 1)])
 	
 print(f"\n\tLISTA 1: {lista1}")
 print(f"\tLISTA 2: {lista2}")
