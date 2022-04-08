@@ -62,7 +62,7 @@ for lin in range(TAM):
 print("\n\n\tMATRIZ 3:\n\t")
 mostrarMatriz(matriz_3, TAM)
 
-#Adicionando a matriz 3 na 4 e multiplicando os elementos da diagonal principal da matriz 1 pela diagonal secund�ria da matriz 2 e substituindo na diagonal principal da matriz 4
+#Adicionando a matriz 3 na 4 e multiplicando os elementos da diagonal principal da matriz 1 pela diagonal secundaria da matriz 2 e substituindo na diagonal principal da matriz 4
 matriz_4 = matriz_3
 for lin in range(TAM):
 	matriz_4[lin][lin] = matriz_1[lin][lin] * matriz_2[lin][ -(lin + 1)]

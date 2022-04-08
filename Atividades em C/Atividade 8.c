@@ -77,7 +77,7 @@ int main()
 	    printf("\n\t\t");
 	}
     
-    //Adicionando a matriz 3 na 4 e multiplicando os elementos da diagonal principal da matriz 1 pela diagonal secund�ria da matriz 2 e substituindo na diagonal principal da matriz 4
+    //Adicionando a matriz 3 na 4 e multiplicando os elementos da diagonal principal da matriz 1 pela diagonal secundaria da matriz 2 e substituindo na diagonal principal da matriz 4
     for(lin = 0; lin < TAM; ++lin){
 	        for(col = 0; col < TAM; ++col){
 	            MATRIZ_4[lin][col] = MATRIZ_3[lin][col];
@@ -98,7 +98,7 @@ int main()
 	    printf("\n\t\t");
 	}
     
-    //Identificando os elementos 52% maiores do que o valor da m�dia geral para cada uma das matrizes 3 e 4.
+    //Identificando os elementos 52% maiores do que o valor da media geral para cada uma das matrizes 3 e 4.
 	for(a = 3; a <= 4; a++){
 		var = 0;
 		for(lin = 0; lin < TAM; ++lin){
