@@ -68,4 +68,4 @@ Adicione todos os valores resultantes de cada multiplicacao e divisao dos itens 
 
 **Observações**
 
-As atividades 1, 2 e 3 tinham questões objetivas
+As atividades 1, 2 e 3 tinham somente questões objetivas
