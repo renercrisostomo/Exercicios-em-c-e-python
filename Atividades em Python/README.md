@@ -37,8 +37,8 @@ Adicionar e mostar 2 listas inseridas pelo usuario e o produto da primeira pelo 
 
 **Atividade 8**
 
-MATRIZES
-Montar duas matrizes quadrada de tamanho e numeros inseridos pelo usuario(para os numeros: se ele digitar valores abaixo de 3.73, informe que não é aceito e peça para digitar novamente)
+LÓGICA DE MATRIZES
+Montar duas matrizes quadradas de tamanho e numeros inseridos pelo usuario (se ele digitar valores abaixo de 3.73, informe que não é aceito e peça para digitar novamente)
 
 - Multiplique as duas matrizes e adicione o resultado em uma 3ª matriz
 - Multiplique a diagonal principal da matriz 1 pela diagonal secundária da matriz 2 e substitua na diagonal principal de uma 4ª matriz cópia da matriz 3.
