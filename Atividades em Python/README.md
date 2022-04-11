@@ -1,12 +1,15 @@
 # Atividades de Tecnicas de Programação em Python
 
-**Atividade 4** | CLASSIFICAR TRIANGULO (LADOS)
+**Atividade 4**
+
+CLASSIFICAR TRIANGULO (LADOS)
 
 Indicar o tipo de triangulo comparando o tamanho dos lados fornecido pelo usuario
 
 **Atividade 5**
 
 TABELA (PESO/ALTURA)
+
 Classificar n pessoas com base nas condições na tabela:
 
 PESO x ALTURA
@@ -19,6 +22,7 @@ PESO x ALTURA
 **Atividade 6**
 
 MEDIA PONDERADA E CONCEITO - FUNCOES
+
 Verifique da nota do aluno com base na media ponderada envolvendo:
 Trabalho(45%), Avaliação Parcial(20%) e Avaliação Final(35%)
 Condição | Conceito
@@ -32,11 +36,13 @@ Condição | Conceito
 **Atividade 7**
 
 PRODUTO DE UMA LISTA PELO INVESO DA OUTRA ADICIONADO DAS PONTAS AO CENTRO
+
 Adicionar e mostar 2 listas inseridas pelo usuario e o produto da primeira pelo inverso da segunda deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em uma 3ª lista. Mostre todas as listas ao usuario.
 
 **Atividade 8**
 
 LÓGICA DE MATRIZES
+
 Montar duas matrizes quadradas de tamanho e numeros inseridos pelo usuario (se ele digitar valores abaixo de 3.73, informe que não é aceito e peça para digitar novamente)
 
 - Multiplique as duas matrizes e adicione o resultado em uma 3ª matriz
@@ -47,6 +53,7 @@ Mostre cada matriz ao final de cada etapa.
 **Atividade 9**
 
 SISTEMA DE NOTAS E FREQUENCIA
+
 Fazer uma matriz dos estudantes com as notas de cada avaliação, média e frequencia (o numero de estudantes, avaliações, notas e frequencia é inserido pelo usuario)
 Calcule a media geral da turma
 
