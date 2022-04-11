@@ -1,6 +1,7 @@
 # Atividades de Tecnicas de Programação em Python
 
 **Atividade 4** | CLASSIFICAR TRIANGULO (LADOS)
+
 Indicar o tipo de triangulo comparando o tamanho dos lados fornecido pelo usuario
 
 **Atividade 5**
