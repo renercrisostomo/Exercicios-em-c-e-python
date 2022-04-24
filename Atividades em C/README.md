@@ -1,6 +1,6 @@
 # Atividades em C
 
-## **[Atividade 4.c](Atividade 4.c)**
+## **Atividade 4.c**
 
 CLASSIFICAR TRIANGULO (LADOS)
 
