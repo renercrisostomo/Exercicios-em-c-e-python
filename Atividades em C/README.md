@@ -1,12 +1,12 @@
-# Atividades de Tecnicas de Programação em C
+# Atividades em C
 
-**Atividade 4**
+## **Atividade 4**
 
 CLASSIFICAR TRIANGULO (LADOS)
 
 Indicar o tipo de triangulo comparando o tamanho dos lados fornecido pelo usuario
 
-**Atividade 5**
+## **Atividade 5**
 
 TABELA (PESO/ALTURA)
 
@@ -19,7 +19,7 @@ PESO x ALTURA
   2B | 5E | 8H | <=1.70        
   3C | 6F | 9I | >1.70 
 
-**Atividade 6**
+## **Atividade 6**
 
 MEDIA PONDERADA E CONCEITO - FUNCOES
 
@@ -33,14 +33,14 @@ Condição | Conceito
  6>MP>=5 | D4
  5>MP | 5E
 
-**Atividade 7**
+## **Atividade 7**
 
 PRODUTO DE UMA LISTA PELO INVESO DA OUTRA ADICIONADO DAS PONTAS AO CENTRO
 
 Adicionar e mostar 2 vetores inseridos pelo usuario e o produto deles deve ser adicionado em zig-zag até o centro(posicao 0,-1,1,-2,2...) em um 3º vetor 
 Mostre todos os vetores ao usuario.
 
-**Atividade 8**
+## **Atividade 8**
 
 MATRIZES
 
@@ -52,20 +52,20 @@ Escreva um programa em C que permite ao usuário digitar números reais maiores 
 
 Obs.: inicie mostrando os elementos das matrizes que foram digitados pelo usuário. Depois, cada item deve ter seu resultado mostrado antes de calcular o próximo item.
 
-**Atividade 9**
+## **Atividade 9**
 
 SISTEMA DE NOTAS E FREQUENCIA
 
 Fazer uma matriz dos estudantes com as notas de cada avaliação, média e frequencia (o numero de estudantes, avaliações, notas e frequencia é inserido pelo usuario)
 Calcule a media geral da turma
 
-**Atividade 10**
+## **Atividade 10**
 
 Montar uma matriz quadrada de tamanho 12x12 e numeros inseridos pelo usuario maiores que 1 (se ele digitar valores abaixo de 1, informe que não é aceito e peça para digitar novamente)
 Multiplique cada valor da diagonal principal por 6 se primo ou por 4 se não primo e mostre a matriz
 Divida cada valor da diagonal secundaria por 5 se par ou por 7 se impar e mostre a matriz
 Adicione todos os valores resultantes de cada multiplicacao e divisao dos itens anteriores e os valores da antepenúltima coluna maiores que 13 à um vetor e mostre-o.
 
-**Observações**
+## **Observações**
 
 As atividades 1, 2 e 3 tinham somente questões objetivas
