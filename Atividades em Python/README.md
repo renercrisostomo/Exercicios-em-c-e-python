@@ -1,4 +1,4 @@
-# Atividades de Tecnicas de Programação em Python
+# Atividades em Python
 
 ## **Atividade 4**
 
