@@ -1,2 +1,2 @@
 # Exercícios
- Repositório com alguns exercícios em linguagem C e Python.
+ Repositório com alguns de meus exercícios respondidos em linguagem C e Python.
